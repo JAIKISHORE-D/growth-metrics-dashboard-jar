@@ -11,7 +11,7 @@ An end-to-end Growth/Product Analytics project simulating the measurement layer 
 *(Add your 4 page screenshots here — see instructions at the bottom)*
 
 ![Zone 1 - Overview](https://github.com/JAIKISHORE-D/growth-metrics-dashboard-jar/blob/main/zone1.png)
-![Zone 2 - Acquisition & Funnel]([dashboard/screenshots/zone2.png](https://github.com/JAIKISHORE-D/growth-metrics-dashboard-jar/blob/main/zone2.png))
+![Zone 2 - Acquisition & Funnel](https://github.com/JAIKISHORE-D/growth-metrics-dashboard-jar/blob/main/zone2.png)
 ![Zone 3 - Engagement & Retention](dashboard/screenshots/zone3.png)
 ![Zone 4 - Monetization](dashboard/screenshots/zone4.png)
 
