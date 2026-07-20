@@ -106,8 +106,3 @@ Built as a portfolio project for Growth/Product Management internship applicatio
 **Tech stack:** Power BI · SQL (SQLite-compatible) · Python (pandas, numpy) · DAX
 
 ---
-
-### Adding your own screenshots
-1. Take a screenshot of each dashboard page (Win + Shift + S)
-2. Save them into `dashboard/screenshots/` as `zone1.png`, `zone2.png`, `zone3.png`, `zone4.png`
-3. They'll automatically appear at the top of this README once uploaded to GitHub
