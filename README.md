@@ -10,7 +10,7 @@ An end-to-end Growth/Product Analytics project simulating the measurement layer 
 
 *(Add your 4 page screenshots here — see instructions at the bottom)*
 
-![Zone 1 - Overview] zone1.png
+![Zone 1 - Overview] (zone1.png)
 ![Zone 2 - Acquisition & Funnel](dashboard/screenshots/zone2.png)
 ![Zone 3 - Engagement & Retention](dashboard/screenshots/zone3.png)
 ![Zone 4 - Monetization](dashboard/screenshots/zone4.png)
